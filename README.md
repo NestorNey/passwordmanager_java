@@ -1,5 +1,5 @@
 
-# Employee management
+# Password Manager
 
 Thats a project that form part of a serie of prohects that i will doing in the school. Especially that project are made like a school project but it is being developed as a larger project with a database and security when entering credentials, this project remains as a base of what was, is or will be PasswordManager.
 
